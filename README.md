@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Syedasuhasana
+- 👋 Hi, I’m Syeda Suhasana
 - 👀 I’m interested in .. learning coding .
 - 🌱 I’m currently learning ..c++.
 - 💞️ I’m looking to collaborate with coders 
